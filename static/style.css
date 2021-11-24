@@ -149,6 +149,12 @@ body {
   font-weight: 100;
 }
 
+/* About Page */
+.mobile-big-title {
+  font-size: 2em;
+  font-weight: 700;
+}
+
 /* Contact Page */
 
 .contact-whole-card {
