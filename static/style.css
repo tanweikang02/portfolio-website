@@ -106,12 +106,12 @@ body {
 .home-name {
   margin-top: 25%;
   font-weight: 700;
-  font-size: 3.8em;
+  font-size: 3.5em;
   line-height: 1.7em;
 }
 
 .call-to-action-btn {
-  background-color: #31708e !important;
+  background-color: #303030 !important;
   color: #f7f9fb !important;
   padding: 6px 13px !important;
 }
